@@ -11,3 +11,8 @@ quantize_model.py
 package-distributions.bat
 improvements.txt
 static/clips/*
+*.mp4
+*.wav
+temp_audio.wav
+test_audio.py
+static/uploads/*
